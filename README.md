@@ -1,16 +1,19 @@
 # Try_data-science-bootcamp
   
 ### Section1  
-60 minutes
+60 minutes  
 
 ### Section2
-90 minutes
+90 minutes  
 
-### Section3
+### Section3  
 Q26 90 minutes  
 Q30 60 minutes  
-next Q30 check
   
-### Section4
-Q35 60minutes  
-Q38 60minutes
+### Section4  
+Q35 60 minutes  
+Q38 60 minutes  
+Q40 30 minutes  
+  
+### Section5  
+Q41 20 minutes
